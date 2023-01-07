@@ -9,6 +9,6 @@
 <div align=left>
 
 ### Discord Quick Links
-[![Rules](https://img.shields.io/badge/File-Rules%20&%20Regulations-blue?style=for-the-badge&logo=discord)](https://discord.gg/4WY5p4jzMq)
+[![Rules](https://img.shields.io/badge/File-Rules%20&%20Regulations-blue?style=for-the-badge&logo=internet)](https://discord.gg/4WY5p4jzMq)
 
 <div>
